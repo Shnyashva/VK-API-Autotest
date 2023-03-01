@@ -1,0 +1,10 @@
+{
+  "createNewPost": "wall.post",
+  "getPostById": "wall.getById",
+  "getWallUploadServer": "photos.getWallUploadServer",
+  "saveWallPhoto": "photos.saveWallPhoto",
+  "editPost": "wall.edit",
+  "addComment": "wall.createComment",
+  "getLikes": "wall.getLikes",
+  "deleteWall": "wall.delete"
+}

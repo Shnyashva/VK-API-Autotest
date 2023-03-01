@@ -1,0 +1,11 @@
+{
+  "sendMessage": "message",
+  "getPostsById": "posts",
+  "uploadUrl": "upload_url",
+  "server": "server",
+  "photo": "photo",
+  "hash": "hash",
+  "attachments": "attachments",
+  "post": "post_id",
+  "comment": "wall.createComment"
+}

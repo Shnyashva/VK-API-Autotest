@@ -1,0 +1,7 @@
+{
+  "url": "https://vk.com/",
+  "baseApiUrl": "https://api.vk.com/method/",
+  "stringLength": 10,
+  "ownerId": "627657327",
+  "deletedPostLabel": "unshown"
+}

@@ -1,0 +1,10 @@
+{
+  "postIdNode": "response.post_id",
+  "textNode": "response[0].text",
+  "uploadUrl": "response.upload_url",
+  "serverNode": "server",
+  "photoNode": "photo",
+  "hashNode": "hash",
+  "photoId": "response[0].id",
+  "likeOwnerId": "response.users[0].uid"
+}
